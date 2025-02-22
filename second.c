@@ -8,7 +8,7 @@ printf("%d\n", x--);
 printf("%d\n", x);
 
 
-/*
+
 //logical operator
 int a=2,b=2,c;
 printf("%d\n",a);

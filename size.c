@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
-{  /* //sizeof
+{  //sizeof
    int x=2999933454;
    printf("%d",sizeof(x));
    return 0;  
@@ -15,9 +15,9 @@ int main()
    char ch;
    printf("Enter any charcter:");
    scanf("%c",&ch);
-   printf("The ascii value of %c is:%d",ch,ch);*/
+   printf("The ascii value of %c is:%d",ch,ch);
 
-
+   //swapping
     int num1,num2;
     printf("Enter the first number:\n");
     scanf("%d",num1);
