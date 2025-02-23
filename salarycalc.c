@@ -18,7 +18,7 @@ int main(){
         bonus+=0.02*salary;
     
     salary_with_bonus=bonus+salary;
-    printf("The employee full bonus is:%.2f",bonus);
+    printf("The employee full bonus is:%.2f\n",bonus);
     printf("The employee full salary is:%.2f",salary_with_bonus);
     return 0;
 
